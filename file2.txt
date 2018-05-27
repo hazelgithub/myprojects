@@ -7,3 +7,5 @@ line6
 line 7 for git
 line 8 adding for git staging area
 line 9 adding for working directory
+line10 adding for p4merge
+line11

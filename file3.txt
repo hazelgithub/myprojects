@@ -5,3 +5,4 @@ line4
 line5
 line6
 line 7 for git
+line 8 for p4merge
